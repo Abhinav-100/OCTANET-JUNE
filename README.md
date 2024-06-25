@@ -1,9 +1,8 @@
 # OCTANET_JUNE
 Internship Task Completion - OctaNet Services Pvt Ltd
-Task 1: Simple Landing Page
-Hello connections! ✨
 
-Today, I am pleased to announce that I have successfully completed my first task as an intern at OctaNet Services Pvt Ltd. This task involved creating a simple landing page for a coffee shop using HTML and CSS.
+
+Task 1: Simple Landing Page
 
 Project Overview
 Task Description: Develop a simple landing page to demonstrate proficiency in HTML and CSS.
@@ -24,10 +23,8 @@ I extend my gratitude to OctaNet Services Pvt Ltd. for providing such a valuable
 ______________________________________________________________________________________________________________________________________________________________
 
 Internship Task Completion - OctaNet Services Pvt Ltd
-Task 2: To-Do List
-Hello connections! ✨
 
-Today, I am pleased to announce that I have successfully completed my second task as an intern at OctaNet Services Pvt Ltd. This task involved creating a functional To-Do List using HTML, JavaScript, and CSS.
+Task 2: To-Do List
 
 Project Overview
 Task Description: Develop a To-Do List application to demonstrate proficiency in HTML, JavaScript, and CSS.
